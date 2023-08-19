@@ -14,6 +14,8 @@
 [![Real-world-Integration-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Real-world-Integration-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Real-world-Integration-Module)
 [![Natural-Language-Processing-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Natural-Language-Processing-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Natural-Language-Processing-Module)
 [![Customization-and-Extension-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Customization-and-Extension-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Customization-and-Extension-Module)
+[![Ethics-and-Bias-Detection-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Ethics-and-Bias-Detection-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Ethics-and-Bias-Detection-Module)
+
 
 # Vilotirium
 Groundbreaking universal quantum technology seamlessly integrated with the power of AI, ML, and augmented reality. 
