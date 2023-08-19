@@ -8,7 +8,7 @@ Groundbreaking universal quantum technology seamlessly integrated with the power
 
 
 
-[![Performance-Analytics-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Performance-Analytics-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Performance-Analytics-Module)
+
 
 ## Modules
 
@@ -149,6 +149,8 @@ Of course, here's additional metadata for the remaining modules:
    - Integration: Applies quantum computing and AI techniques to predictive analysis.
 
 20. **Performance Analytics Module:**
+ [![Performance-Analytics-Module](https://clarifai.com/api/kosasih/Vilotirium/modules/Performance-Analytics-Module/badge)](https://clarifai.com/kosasih/Vilotirium/modules/Performance-Analytics-Module)
+   
    - Description: Assess and optimize the performance of quantum algorithms and machine learning models for efficiency and accuracy.
    - Key Features: Performance metrics, algorithm optimization, efficiency recommendations.
    - Integration: Enhances quantum computation and AI analysis for optimal results.
